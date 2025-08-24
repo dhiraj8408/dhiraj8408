@@ -12,7 +12,7 @@ I am a **Computer Science and Engineering** student at **Visvesvaraya National I
 
 ### 📌 Full Stack Projects
 
-- **Astro VNIT** - [🔗 Live Site](https://astrovnit.in/)
+- **Astro VNIT** 
   - A **Full Stack Ashlesha Astronomy Club Website** for VNIT.
   - Tech Stack: **HTML, CSS, JavaScript, NodeJS, ExpressJS, MongoDB**
 
